@@ -1,2 +1,3 @@
 /venv
-/src/database.db
+/src/db/__pycache__
+/src/db/database.db
